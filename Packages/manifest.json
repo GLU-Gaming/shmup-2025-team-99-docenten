@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.lazysquirrellabs.minmaxrangeattribute": "https://github.com/lazysquirrellabs/min_max_range_attribute.git?path=Assets/Lazy Squirrel Labs/MinMaxRangeAttribute",
     "com.unity.ai.navigation": "2.0.4",
     "com.unity.collab-proxy": "2.7.1",
     "com.unity.ide.rider": "3.0.31",
